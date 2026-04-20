@@ -1,28 +1,24 @@
-## 👋 Hi, I’m tommy johnson. Thanks for coming.
+## 👋 Hi, I’m Jomel. Thanks for coming.
 
 ## 🧑 About me.
-  Experienced Full-stack developer with expertise in blockchain technology, Web technology and Three.js .
-
-  As a strong full stack developer, I have attended many projects and contributed to increase the profit of their companies.
-  My main goal is recognize correctly about the requirements of all clients and implement their idea rightly. Also I always keep focus to improve the performance of project and optimize of code structure.
-  We should be establish perfect infra structure before start the project.
-  That is my main point that I took meanwhile doing the many projects. I will always work in this way with any client or company. Give me a chance to make big thing. Let's create big profit together!
-  👀 I’m interested in web design and 3D graph.
-
-  ## Contact
-
-- Email: tommy.johnson.dev@gmail.com
-- skype: live:.cid.43c868c07a2cd1db
-- GitHub: [github.com/johndoe](https://github.com/tommyjohnson43)
+Senior full-stack developer with 8+ years of experience delivering robust web, e-commerce, and AI-integrated
+solutions for EU and US clients. Specialized in Laravel, Vue, Nuxt, Next.js, Shopify, and WordPress with strong
+frontend expertise in React.js, TypeScript, and UI frameworks including Tailwind CSS and Material UI. Experienced
+building backend systems with Node.js, Django, and .NET/C# and developing cross-platform mobile apps using React
+Native and Flutter. Proficient in database management (MySQL, MongoDB, PostgreSQL) and AI integrations using
+OpenAI and LangChain. Experienced deploying scalable cloud applications on AWS, Firebase, and Cloudflare.
+Fluent in English, comfortable with async remote workflows, and available across EU and US time zones
 
 - ## Skills
-- **Programming Languages**: JavaScript, Python, Java
-- **Technologies & Frameworks**: React.js, Node.js, Django, Spring Boot
-- **Database Management**: MongoDB, PostgreSQL, MySQL
-- **Cloud Platforms**: AWS (EC2, S3, Lambda), Azure, Google Cloud Platform
-- **Networking**: TCP/IP, DNS, VPN
-- **Security**: OWASP Top 10, SSL/TLS, SIEM
-- **DevOps**: Docker, Kubernetes, Jenkins, GitLab CI/CD
-- **Project Management**: Agile, Scrum, Kanban
-- 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
+**Backend:** PHP, Laravel, Node.js, TypeScript, Python, Django, FastAPI, Express.js, NestJS, C#, .NET
+**Frontend:** React, Next.js, Vue.js, Nuxt.js, Svelte, Angular.js, Tailwind CSS, Bootstrap
+**Mobile:** React Native, Flutter Databases: PostgreSQL, MySQL, MongoDB, Redis, GraphQL
+**Cloud & DevOps:** AWS (Lambda, S3, SQS, EventBridge, RDS, EC2), GCP, Firebase, Docker, Kubernetes, Supabase
+**Payments:** Stripe, PayPal, iDEAL Payments
+**CMS & E-Commerce:** WordPress, Shopify, Wagtail, Wix, Drupal
+**AI & ML:** LangChain, Pinecone, OpenAI API, BeautifulSoup
+**Web3:** Solidity, Ethereum, Wagmi, Web3.js Testing: Jest, PHPUnit
+**DevOps & CI/CD:** GitHub Actions, GitLab CI, CloudWatch, ELK Stack, Prometheus, Datadog
+**Dev Tools:** GitHub, GitLab, Bitbucket, Jira, Figma, Agile/Scrum, Kanban, Notion
+**Design & Creative Tools:** 3Ds Max, Photoshop
 
