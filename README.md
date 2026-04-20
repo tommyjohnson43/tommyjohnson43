@@ -10,15 +10,15 @@ OpenAI and LangChain. Experienced deploying scalable cloud applications on AWS, 
 Fluent in English, comfortable with async remote workflows, and available across EU and US time zones
 
 - ## Skills
-**Backend:** PHP, Laravel, Node.js, TypeScript, Python, Django, FastAPI, Express.js, NestJS, C#, .NET
-**Frontend:** React, Next.js, Vue.js, Nuxt.js, Svelte, Angular.js, Tailwind CSS, Bootstrap
-**Mobile:** React Native, Flutter Databases: PostgreSQL, MySQL, MongoDB, Redis, GraphQL
-**Cloud & DevOps:** AWS (Lambda, S3, SQS, EventBridge, RDS, EC2), GCP, Firebase, Docker, Kubernetes, Supabase
-**Payments:** Stripe, PayPal, iDEAL Payments
-**CMS & E-Commerce:** WordPress, Shopify, Wagtail, Wix, Drupal
-**AI & ML:** LangChain, Pinecone, OpenAI API, BeautifulSoup
-**Web3:** Solidity, Ethereum, Wagmi, Web3.js Testing: Jest, PHPUnit
-**DevOps & CI/CD:** GitHub Actions, GitLab CI, CloudWatch, ELK Stack, Prometheus, Datadog
-**Dev Tools:** GitHub, GitLab, Bitbucket, Jira, Figma, Agile/Scrum, Kanban, Notion
-**Design & Creative Tools:** 3Ds Max, Photoshop
+--**Backend:** PHP, Laravel, Node.js, TypeScript, Python, Django, FastAPI, Express.js, NestJS, C#, .NET
+--**Frontend:** React, Next.js, Vue.js, Nuxt.js, Svelte, Angular.js, Tailwind CSS, Bootstrap
+--**Mobile:** React Native, Flutter Databases: PostgreSQL, MySQL, MongoDB, Redis, GraphQL
+--**Cloud & DevOps:** AWS (Lambda, S3, SQS, EventBridge, RDS, EC2), GCP, Firebase, Docker, Kubernetes, Supabase
+--**Payments:** Stripe, PayPal, iDEAL Payments
+--**CMS & E-Commerce:** WordPress, Shopify, Wagtail, Wix, Drupal
+--**AI & ML:** LangChain, Pinecone, OpenAI API, BeautifulSoup
+--**Web3:** Solidity, Ethereum, Wagmi, Web3.js Testing: Jest, PHPUnit
+--**DevOps & CI/CD:** GitHub Actions, GitLab CI, CloudWatch, ELK Stack, Prometheus, Datadog
+--**Dev Tools:** GitHub, GitLab, Bitbucket, Jira, Figma, Agile/Scrum, Kanban, Notion
+--**Design & Creative Tools:** 3Ds Max, Photoshop
 
