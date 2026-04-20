@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Jomel. Thanks for coming.
 
-## 🧑 About me.
+## About me.
 Senior full-stack developer with 8+ years of experience delivering robust web, e-commerce, and AI-integrated
 solutions for EU and US clients. Specialized in Laravel, Vue, Nuxt, Next.js, Shopify, and WordPress with strong
 frontend expertise in React.js, TypeScript, and UI frameworks including Tailwind CSS and Material UI. Experienced
